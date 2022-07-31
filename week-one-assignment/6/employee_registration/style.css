@@ -1,0 +1,16 @@
+form input{
+    margin: 10px;
+    justify-content: flex-end;
+}
+ form{
+    width: 100px;
+    margin: 10px; 
+    text-align: center; 
+    border: 2px solid #dddddd;
+    border-radius: 5px;
+ }
+
+ div{
+    margin:10px; 
+    justify-items:flex-end;
+ }
